@@ -1,0 +1,4 @@
+Flask
+Werkzeug
+cairosvg
+svg_to_gcode
