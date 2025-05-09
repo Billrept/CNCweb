@@ -44,10 +44,10 @@ def split_svg_by_color(svg_path):
     root = tree.getroot()
     svg_ns = {'svg': 'http://www.w3.org/2000/svg'}
     layers = {
-        'black': ET.Element('svg', root.attrib),
-        'yellow': ET.Element('svg', root.attrib),
         'cyan': ET.Element('svg', root.attrib),
-        'magenta': ET.Element('svg', root.attrib)
+        'magenta': ET.Element('svg', root.attrib),
+        'yellow': ET.Element('svg', root.attrib),
+        'black': ET.Element('svg', root.attrib)
     }
 
     for layer in layers.values():
