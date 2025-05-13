@@ -1,0 +1,46 @@
+filename,size_kb,size_category,total_time,api_time,success,status_code,message
+gas.svg,1.88671875,20-200KB,0.06575202941894531,0.06,True,200.0,
+acute.svg,2.1455078125,20-200KB,0.06809401512145996,0.06,True,200.0,
+flammable.svg,2.986328125,20-200KB,0.05529379844665527,0.05,True,200.0,
+hotel-svgrepo-com.svg,3.490234375,1-5KB,0.2146899700164795,0.21,True,200.0,
+snow-mountain-svgrepo-com.svg,4.1865234375,1-5KB,0.425753116607666,0.23,True,200.0,
+lighthouse-svgrepo-com.svg,4.4072265625,1-5KB,0.44948911666870117,0.25,True,200.0,
+suitcase-svgrepo-com.svg,4.4755859375,1-5KB,0.2769300937652588,0.27,True,200.0,
+wallet-svgrepo-com.svg,4.880859375,1-5KB,0.3374311923980713,0.32,True,200.0,
+map-svgrepo-com.svg,4.9677734375,1-5KB,0.3438992500305176,0.33,True,200.0,
+sunbathing-svgrepo-com.svg,4.970703125,1-5KB,0.5218179225921631,0.31,True,200.0,
+cocktail-svgrepo-com.svg,4.97265625,1-5KB,0.49926090240478516,0.29,True,200.0,
+emu-svgrepo-com.svg,5.0625,1-5KB,0.3142211437225342,0.3,True,200.0,
+the-trees-svgrepo-com.svg,5.068359375,1-5KB,0.351898193359375,,False,,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+polaroid-svgrepo-com.svg,5.1064453125,1-5KB,0.4433908462524414,0.43,True,200.0,
+indicator-svgrepo-com.svg,5.189453125,1-5KB,0.15078091621398926,,False,,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+airplane-svgrepo-com.svg,5.7548828125,1-5KB,0.3334231376647949,,False,,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+wine-svgrepo-com.svg,6.3095703125,1-5KB,0.4412050247192383,,False,,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+take-a-bath-svgrepo-com.svg,6.6240234375,1-5KB,0.5988600254058838,0.39,True,200.0,
+surf-svgrepo-com.svg,6.96484375,1-5KB,0.6032071113586426,0.4,True,200.0,
+ice-cream-svgrepo-com.svg,7.150390625,1-5KB,0.47866201400756836,0.47,True,200.0,
+suv-svgrepo-com.svg,7.498046875,1-5KB,0.5397849082946777,0.53,True,200.0,
+hot-surface-text.svg,8.0244140625,20-200KB,0.0797109603881836,0.07,True,200.0,
+coconut-tree-svgrepo-com.svg,8.8291015625,1-5KB,0.3531019687652588,,False,,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+milk-tea-svgrepo-com.svg,9.466796875,1-5KB,0.3666410446166992,,False,,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+oxidiser-text.svg,12.0771484375,20-200KB,0.20644712448120117,0.2,True,200.0,
+ecotoxic-text.svg,14.669921875,20-200KB,0.08644413948059082,,False,,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+dinosaur-text.svg,14.6865234375,20-200KB,0.3145568370819092,0.3,True,200.0,
+corrosive.svg,15.8251953125,20-200KB,0.36284494400024414,0.35,True,200.0,
+explosive-text.svg,22.2470703125,20-200KB,0.025820016860961914,,False,,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+cytotoxic-waste-text.svg,22.3037109375,20-200KB,0.5819389820098877,0.37,True,200.0,
+corrosive-text.svg,25.05859375,20-200KB,0.7234046459197998,0.51,True,200.0,
+electrical-text.svg,26.5654296875,20-200KB,0.6148521900177002,0.37,True,200.0,
+unique_multicolor_art_5.svg,26.6982421875,0.5-2MB,0.15177512168884277,,False,,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+chronic-text.svg,27.3193359375,20-200KB,0.5685470104217529,0.56,True,200.0,
+laser-text.svg,28.416015625,20-200KB,0.30893921852111816,0.3,True,200.0,
+cryogenic-text.svg,31.701171875,20-200KB,0.17432808876037598,,False,,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+unique_multicolor_art_4.svg,126.189453125,0.5-2MB,1.1310782432556152,0.83,True,200.0,
+unique_multicolor_art_9.svg,133.119140625,0.5-2MB,0.5768539905548096,0.37,True,200.0,
+unique_multicolor_art_10.svg,166.8759765625,0.5-2MB,0.7758269309997559,,False,,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+unique_multicolor_art_3.svg,199.6318359375,0.5-2MB,0.5112237930297852,0.49,True,200.0,
+unique_multicolor_art_8.svg,244.09765625,0.5-2MB,0.5262260437011719,,False,,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+unique_multicolor_art_6.svg,247.8623046875,0.5-2MB,0.14864897727966309,,False,,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+unique_multicolor_art_2.svg,365.8740234375,0.5-2MB,1.3416039943695068,1.09,True,200.0,
+unique_multicolor_art_7.svg,790.7890625,0.5-2MB,0.9101979732513428,0.86,True,200.0,
+unique_multicolor_art_1.svg,1193.51953125,0.5-2MB,1.4774279594421387,1.25,True,200.0,

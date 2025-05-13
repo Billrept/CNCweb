@@ -2,3 +2,8 @@ Flask
 Werkzeug
 cairosvg
 svg_to_gcode
+lxml
+Pillow
+gunicorn
+flask-cors
+watchdog
