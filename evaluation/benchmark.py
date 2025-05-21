@@ -10,6 +10,10 @@ import matplotlib.pyplot as plt
 from concurrent.futures import ThreadPoolExecutor
 from tqdm import tqdm
 
+import warnings
+from urllib3.exceptions import NotOpenSSLWarning
+warnings.filterwarnings("ignore", category=NotOpenSSLWarning)
+
 # Configuration
 API_URL = "http://localhost:8080/api/convert"  # Adjust if needed
 SPEED = 155  # Default speed
@@ -177,7 +181,7 @@ def run_benchmark(files=None, speed=SPEED):
         # Save results to CSV
         df.to_csv(RESULTS_FILE, index=False)
         print(f"Results saved to {RESULTS_FILE}")
-    
+            
     return df
 
 def plot_results(results_df):
